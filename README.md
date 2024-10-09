@@ -1,0 +1,1 @@
+A simple hotel fullstack application.
